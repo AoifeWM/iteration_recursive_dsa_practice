@@ -1,4 +1,4 @@
-from node import Node
+from data_structures.linked_list import Node
 
 
 class InvalidOperationError(BaseException):
